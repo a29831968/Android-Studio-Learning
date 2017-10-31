@@ -1,0 +1,6 @@
+// Java - trim
+
+trim()方法返回字符串,
+但是將開頭與结尾的空格刪除。
+
+常見用法 getText().toString().trim().
