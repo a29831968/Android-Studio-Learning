@@ -20,3 +20,8 @@ http://julianchu.net/2016/03/13-recyclerview.html
 
 https://litotom.com/2016/12/11/firebase_crud1/
 https://litotom.com/2016/08/29/firephoto-recyclerview-storage/
+
+5.Firebase E-mail 登入實作
+
+https://litotom.com/2016/06/03/firebase-email-signin-p3/
+
