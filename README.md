@@ -1,4 +1,7 @@
 # Android-Studio-Learning
 
-1. Function 
-2. Method
+＠學習資料
+
+Activity 更換頁面模式
+
+http://dbhills.blogspot.tw/2015/01/androidactivity.html
