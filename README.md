@@ -25,7 +25,7 @@ https://litotom.com/2016/08/29/firephoto-recyclerview-storage/
 
 https://litotom.com/2016/06/03/firebase-email-signin-p3/
 
-6. Crop Image
+6.Crop Image
 
 https://github.com/ArthurHub/Android-Image-Cropper
 
