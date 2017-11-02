@@ -29,4 +29,8 @@ https://litotom.com/2016/06/03/firebase-email-signin-p3/
 
 https://github.com/ArthurHub/Android-Image-Cropper
 
+7.How to stop Gradle task execution in Android Studio?
+
+https://stackoverflow.com/questions/21184794/how-to-stop-gradle-task-execution-in-android-studio
+
 
