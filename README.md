@@ -37,4 +37,10 @@ https://stackoverflow.com/questions/21184794/how-to-stop-gradle-task-execution-i
 
 https://developer.android.com/guide/topics/ui/menus.html?hl=zh-tw
 
+9.Android app 歡迎畫面設定
+
+http://fiend1120.pixnet.net/blog/post/192683310-android-app%E6%AD%A1%E8%BF%8E%E7%95%AB%E9%9D%A2%EF%BC%88%E5%B9%BE%E7%A7%92%E5%BE%8C%E9%80%B2%E5%85%A5%E4%B8%BB%E9%A0%81%E9%9D%A2%EF%BC%89
+
+
+
 
