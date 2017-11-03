@@ -1,5 +1,14 @@
 # Android-Studio-Learning
 
+＠工具
+
+
+1.使用 Vysor 在電腦上控制 Android 裝置
+
+https://blog.ccjeng.com/2016/10/vysor.html
+
+
+
 ＠學習資料
 
 1.Activity 更換頁面模式
