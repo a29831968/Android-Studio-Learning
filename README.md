@@ -51,3 +51,8 @@ http://brianchen85.blogspot.tw/2015/09/android-change-backgroundcolor-gradient.h
 
 https://stackoverflow.com/questions/32021619/how-to-make-an-activity-background-transparent-and-blur-the-background
 
+12.How to make the corners of a button round?
+
+https://stackoverflow.com/questions/6054562/how-to-make-the-corners-of-a-button-round
+https://stackoverflow.com/questions/32021619/how-to-make-an-activity-background-transparent-and-blur-the-background
+
