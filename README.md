@@ -33,4 +33,8 @@ https://github.com/ArthurHub/Android-Image-Cropper
 
 https://stackoverflow.com/questions/21184794/how-to-stop-gradle-task-execution-in-android-studio
 
+8.Menu doc. guide
+
+https://developer.android.com/guide/topics/ui/menus.html?hl=zh-tw
+
 
