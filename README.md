@@ -41,6 +41,13 @@ https://developer.android.com/guide/topics/ui/menus.html?hl=zh-tw
 
 http://fiend1120.pixnet.net/blog/post/192683310-android-app%E6%AD%A1%E8%BF%8E%E7%95%AB%E9%9D%A2%EF%BC%88%E5%B9%BE%E7%A7%92%E5%BE%8C%E9%80%B2%E5%85%A5%E4%B8%BB%E9%A0%81%E9%9D%A2%EF%BC%89
 
+10.Button 使用與介紹
 
+http://rx1226.pixnet.net/blog/post/208566466-%5Bandroid%5D-2-4-button%E4%BB%8B%E7%B4%B9%E5%92%8C%E4%BD%BF%E7%94%A8
 
+11.背景漸層
+
+http://brianchen85.blogspot.tw/2015/09/android-change-backgroundcolor-gradient.html
+
+https://stackoverflow.com/questions/32021619/how-to-make-an-activity-background-transparent-and-blur-the-background
 
