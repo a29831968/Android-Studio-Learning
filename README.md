@@ -1,7 +1,14 @@
 # Android-Studio-Learning
 
-＠工具
 
+@Tutorial
+
+1.Firebase Tutorial and some android stuio skills
+
+https://www.youtube.com/user/akshayejh/playlists?sort=dd&view=1&flow=grid
+
+
+＠工具
 
 1.使用 Vysor 在電腦上控制 Android 裝置
 
