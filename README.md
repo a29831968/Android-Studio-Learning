@@ -44,5 +44,10 @@
 
 <p><a href="https://stackoverflow.com/questions/6054562/how-to-make-the-corners-of-a-button-round">13.How to make the corners of a button round?</a></p>
 
+<h3>問題解決</h3>
+
+<p><a href="https://stackoverflow.com/questions/38583278/android-firebasecouldmessaging-firebaseinstanceid-background-sync-failed-ser/39263385#39263385?newreg=2037453dc7d94d4594d27fe3c26260df">Android FirebaseCouldMessaging : FirebaseInstanceId background sync failed - SERVICE_NOT_AVAILABLE
+
+</a></p>
 
 
