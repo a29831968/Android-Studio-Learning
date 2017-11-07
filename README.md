@@ -48,4 +48,4 @@
 
 <p><a href="https://stackoverflow.com/questions/38583278/android-firebasecouldmessaging-firebaseinstanceid-background-sync-failed-ser/39263385#39263385?newreg=2037453dc7d94d4594d27fe3c26260df">1. Android FirebaseCouldMessaging : FirebaseInstanceId background sync failed - SERVICE_NOT_AVAILABLE</a></p>
 
-
+<p><a href="https://stackoverflow.com/questions/18077325/scale-image-to-fill-imageview-width-and-keep-aspect-ratio">14.Centerfit & fitcenter(all about Scaletype)</a></p>
