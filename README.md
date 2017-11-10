@@ -1,5 +1,12 @@
 # Android-Studio-Learning
 
+<h3>Java 基本概念</h3>
+
+<p><a href="http://luckyboy7527.pixnet.net/blog/post/97538839-%5B%E8%BD%89%E8%BC%89%5D-java%E4%BD%9C%E7%94%A8%E5%9F%9Fpublic-%2Cprivate-%2Cprotected-%E5%8F%8A%E4%B8%8D%E5%AF%AB">1.java作用域public ,private ,protected 及不寫時的區別</a></p>
+
+
+<p><a href="http://lavasoft.blog.51cto.com/62575/18771/">2.final, static 概念</a></p>
+<p><a href="http://hsingjungchen.blogspot.tw/2017/05/java-this-super.html"></a>3.this() and super()</p>
 
 <h3>Tutorial</h3>
 
