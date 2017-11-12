@@ -14,7 +14,6 @@
 
 <p><a href="https://www.youtube.com/user/akshayejh/playlists?sort=dd&view=1&flow=grid">1.Firebase Tutorial and some android stuio skills</a></p>
 <p><a href="https://www.youtube.com/watch?v=2FRBDXBs30Y">2.Two key event of Retrieving data in realtime with Firebase</a></p>
-<p><a href="http://givemepass.blogspot.tw/2011/11/datepickerdialog.html">3.DatePickerDialogue 用法</a></p>
 
 
 <h3>工具</h3>
@@ -53,6 +52,9 @@
 <p><a href="https://stackoverflow.com/questions/32021619/how-to-make-an-activity-background-transparent-and-blur-the-background">12.背景漸層(二)</a></p>
 
 <p><a href="https://stackoverflow.com/questions/6054562/how-to-make-the-corners-of-a-button-round">13.How to make the corners of a button round?</a></p>
+
+
+<p><a href="http://givemepass.blogspot.tw/2011/11/datepickerdialog.html">14.DatePickerDialogue 用法</a></p>
 
 <h3>問題解決</h3>
 
