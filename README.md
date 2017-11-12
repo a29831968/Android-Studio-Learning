@@ -56,6 +56,7 @@
 
 <p><a href="http://givemepass.blogspot.tw/2011/11/datepickerdialog.html">14.DatePickerDialogue 用法</a></p>
 <p><a href="http://rx1226.pixnet.net/blog/post/208566466-%5Bandroid%5D-2-4-button%E4%BB%8B%E7%B4%B9%E5%92%8C%E4%BD%BF%E7%94%A8">15.Button and onClickListener 使用</a></p>
+<p><a href="http://givemepass.blogspot.tw/2011/11/spinner.html">16.Spinner 簡易使用</a></p>
 
 <h3>問題解決</h3>
 
