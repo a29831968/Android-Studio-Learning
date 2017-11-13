@@ -8,6 +8,11 @@
 <p><a href="http://lavasoft.blog.51cto.com/62575/18771/">2.final, static 概念</a></p>
 <p><a href="http://hsingjungchen.blogspot.tw/2017/05/java-this-super.html">3.this() and super()</a></p>
 <p><a href="http://jimmu-jimmu.blogspot.tw/2012/10/abstract-classinterface.html">4.abstract, interface 概念</a></p>
+<p>
+  <a href="http://ocean2002n.pixnet.net/blog/post/86980964-%5Bandroid%5D-int-%E8%88%87-string-%E8%BD%89%E6%8F%9B">
+    5.Int & String 轉換
+  </a>
+</p>
 
 
 <h3>Tutorial</h3>
