@@ -58,6 +58,11 @@
 <p><a href="http://rx1226.pixnet.net/blog/post/208566466-%5Bandroid%5D-2-4-button%E4%BB%8B%E7%B4%B9%E5%92%8C%E4%BD%BF%E7%94%A8">15.Button and onClickListener 使用</a></p>
 <p><a href="http://givemepass.blogspot.tw/2011/11/spinner.html">16.Spinner 簡易使用-1</a></p>
 <p><a href="https://android--code.blogspot.tw/2015/08/android-spinner-add-item-dynamically.html">17.Spinner 簡易使用-2</a></p>
+<p>
+  <a href="http://cookiesp.pixnet.net/blog/post/84190702-android-intent%26bundle-%E5%82%B3%E9%81%9E%E8%B3%87%E6%96%99%28%E5%8C%85%E5%90%AB%E5%82%B3%E9%81%9E%E8%87%AA%E5%AE%9A%E7%BE%A9%E7%89%A9">
+    18.Android Intent&Bundle 傳遞資料(包含傳遞自定義物件)
+  </a>
+</p>
 
 <h3>問題解決</h3>
 
