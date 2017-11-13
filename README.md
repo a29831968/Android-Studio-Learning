@@ -68,10 +68,9 @@
     18.Android Intent&Bundle 傳遞資料(包含傳遞自定義物件)
   </a>
 </p>
-
 <p>
   <a href="https://gist.github.com/julianshen/5829333#file-circletransform-java">
-    19.CircleTransform.java (外框圓型) for picasso
+    19.CircleTransform.java (外框圓型) for picasso
   </a>
 </p>
 
