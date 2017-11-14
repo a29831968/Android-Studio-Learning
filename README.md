@@ -74,8 +74,7 @@
   </a>
 </p>
 <p>
-  <a href="http://jjnnykimo.pixnet.net/blog/post/29610930-android-%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F">
-    20.Android App 生命週期
+  <a href="http://jjnnykimo.pixnet.net/blog/post/29610930-android-%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F">20.Android App 生命週期
   </a>
 </p>
 
