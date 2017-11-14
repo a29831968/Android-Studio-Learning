@@ -74,6 +74,12 @@
   </a>
 </p>
 
+<p>
+  <a href="http://jjnnykimo.pixnet.net/blog/post/29610930-android-%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F">
+    20.Android App 生命週期
+  </a>
+</p>
+
 <h3>問題解決</h3>
 
 <p><a href="https://stackoverflow.com/questions/38583278/android-firebasecouldmessaging-firebaseinstanceid-background-sync-failed-ser/39263385#39263385?newreg=2037453dc7d94d4594d27fe3c26260df">1. Android FirebaseCouldMessaging : FirebaseInstanceId background sync failed - SERVICE_NOT_AVAILABLE</a></p>
