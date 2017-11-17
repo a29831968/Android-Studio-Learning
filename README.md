@@ -82,6 +82,7 @@
 <p><a href="http://givemepass.blogspot.tw/2011/11/alertdialog.html">21.AlertDialog</a></p>
 
 <p><a href="http://blog.csdn.net/jianghuiquan/article/details/8333582">22.onCheckedChangelistener</a></p>
+<p><a href="https://litotom.com/2016/05/15/android-6-permission/">23.permission 權限設計</a></p>
 
 <h3>問題解決</h3>
 
