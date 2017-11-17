@@ -84,6 +84,9 @@
 <p><a href="http://blog.csdn.net/jianghuiquan/article/details/8333582">22.onCheckedChangelistener</a></p>
 <p><a href="https://litotom.com/2016/05/15/android-6-permission/">23.permission 權限設計</a></p>
 
+<h4>學習資料-Geofire</h4>
+<p><a href="https://github.com/firebase/geofire-java">1.簡單介紹(github)</a></p>
+
 <h3>問題解決</h3>
 
 <p><a href="https://stackoverflow.com/questions/38583278/android-firebasecouldmessaging-firebaseinstanceid-background-sync-failed-ser/39263385#39263385?newreg=2037453dc7d94d4594d27fe3c26260df">1. Android FirebaseCouldMessaging : FirebaseInstanceId background sync failed - SERVICE_NOT_AVAILABLE</a></p>
