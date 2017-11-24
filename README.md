@@ -86,7 +86,9 @@
 <p><a href="http://mycodetub.logdown.com/posts/666424-android-gets-the-current-location">24.Android 取得目前位置</a></p>
 
 <h4>學習資料-Geofire</h4>
-<p><a href="https://github.com/firebase/geofire-java">1.簡單介紹(github)</a></p>
+
+<p><a href="https://github.com/firebase/geofire-java">1.全盤基本介紹</a></p>
+<p><a href="https://github.com/firebase/geofire-java">2.簡單功能(github)</a></p>
 
 <h3>問題解決</h3>
 
