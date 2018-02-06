@@ -86,6 +86,8 @@
 <p><a href="http://mycodetub.logdown.com/posts/666424-android-gets-the-current-location">24.Android 取得目前位置</a></p>
 <p><a href="http://lp43.blogspot.tw/2015/12/viewcoordinatorlayout.html">25.Coordinate Layout</a></p>
 <p><a href="http://rx1226.pixnet.net/blog/post/309230154-%5Bandroid%5D-9-11-include%E4%BD%BF%E7%94%A8merge-tag">26.XML file 的 merge 使用</a></p>
+<p><a href="http://blog.csdn.net/mygfz/article/details/53509212">27.viewpager 的基本介紹</a></p>
+
 
 <h4>學習資料-Geofire</h4>
 
